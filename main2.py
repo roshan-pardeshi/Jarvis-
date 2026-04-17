@@ -50,17 +50,7 @@ def processCommand(c):
         print("addition is ",a+b)
         
     
-    # elif "hey" in c.lower():
-    #     r.requests.get(" https://newsapi.org/v2/top-headlines?country=us&apiKey={newsapi}")
-    #     if r.status_code == 200:
-    #         data = r.json()
-    #         articles = data.get('articles', [])
-            
-
-    #         for article in articles:
-    #             speak(f"• {article['title']}")
-    #             speak(article['title'])
-
+    
     elif "game" in c.lower():
         computer = random.choice([1,2])
         you=int(input("enter the number under 1,2,3"))
