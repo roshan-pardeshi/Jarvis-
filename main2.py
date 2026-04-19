@@ -10,9 +10,7 @@ recognizer = sr.Recognizer()
 engine = pyttsx3.init()
 newsapi = "044602566a45469ca5f5d93e0eb394c4"
 
-# def speak(text):
-#     engine.say(text)
-#     engine.runAndWait()
+
 
 def speak2(text):
     engine.say(text)
