@@ -134,17 +134,7 @@ if __name__ == "__main__":
 #         webbrowser.open("https://www.whatsapp.com")
 
 
-# if __name__ == "__main__":
-#     speak("Initializing sonu")
-#     while True:
-#         r = sr.Recognizer()
-#         print("recognizing--")
-#         try:
-#             with sr.Microphone() as source:
-#                 print("Listening sonu...")
-#                 audio = r.listen(source, timeout=2, phrase_time_limit=1)
-#             word = r.recognize_google(audio)
-#             if (word.lower() == "sonu"):   # ✅ properly indented
+#
 #                     speak("ya")
 #                     with sr.Microphone() as source:
 #                         print("sonu Active--")
