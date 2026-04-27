@@ -116,13 +116,7 @@ if __name__ == "__main__":
 
 
 
-# recognizer = sr.Recognizer()
-# engine = pyttsx3.init()
-
-# def speak(text):
-#     engine.say(text)
-#     engine.runAndWait()
-
+#
 # def processCommand(c):
 #     if "open google" in c.lower():
 #         webbrowser.open("https://www.google.com")
