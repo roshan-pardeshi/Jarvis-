@@ -117,9 +117,7 @@ if __name__ == "__main__":
 
 
 #
-# def processCommand(c):
-#     if "open google" in c.lower():
-#         webbrowser.open("https://www.google.com")
+# 
 #     elif "open facebook" in c.lower():
 #         webbrowser.open("https://www.facebook.com")
 #     elif "open intagram" in c.lower():
