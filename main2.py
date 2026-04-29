@@ -101,28 +101,3 @@ if __name__ == "__main__":
             speak2("your choice is not understding")
             print(f"error;not work {0}".format(e))
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#
-# 
-#     elif "open facebook" in c.lower():
-#         webbrowser.open("https://www.facebook.com")
-#     elif "open intagram" in c.lower():
-#         webbrowser.open("https://www.intagram.com")
-#   
-
-#
-#                
