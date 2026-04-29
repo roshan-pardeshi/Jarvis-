@@ -1,5 +1,4 @@
 music = {
-        # "https://www.youtube.com/watch?v=nXJlF-8ds1E&list=RDnXJlF-8ds1E&start"skyfall" : "https://www.youtube.com/watch?v=sZrTJesvJeo&list=RDsZrTJesvJeo&start_radio=1&pp=ygUNc2t5IGZhbGwgc29uZ6AHAQ%3D%3D",
         "sahiba"  : "https://www.youtube.com/watch?v=NW6Dgax2d6I&list=RDNW6Dgax2d6I&start_radio=1&pp=0gcJCZYEOCosWNin",
         "mala_radio=1": "https://www.youtube.com/watch?v=JGwWNGJdvx8",
         "sahiba" : "https://www.youtube.com/watch?v=JGwWNGJdvx8",
