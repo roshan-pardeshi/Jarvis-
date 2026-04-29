@@ -124,9 +124,7 @@ if __name__ == "__main__":
 #         webbrowser.open("https://www.facebook.com")
 #     elif "open intagram" in c.lower():
 #         webbrowser.open("https://www.intagram.com")
-#     elif "open whatsapp" in c.lower():
-#         webbrowser.open("https://www.whatsapp.com")
-
+#   
 
 #
 #                
