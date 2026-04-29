@@ -129,15 +129,4 @@ if __name__ == "__main__":
 
 
 #
-#                     speak("ya")
-#                     with sr.Microphone() as source:
-#                         print("sonu Active--")
-#                         audio= r.listen(source)
-#                         command= r.recognize_google(audio)
-         
-#                         processCommand(command)
-    
-#         except Exception as e:
-#             print(f"error;not work {0}".format(e))
-
- 
+#                
