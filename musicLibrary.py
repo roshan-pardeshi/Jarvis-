@@ -1,6 +1,6 @@
 music = {
         "sahiba"  : "https://www.youtube.com/watch?v=NW6Dgax2d6I&list=RDNW6Dgax2d6I&start_radio=1&pp=0gcJCZYEOCosWNin",
-        "mala_radio=1": "https://www.youtube.com/watch?v=JGwWNGJdvx8",
+ 
 }
 
 def play_song_on_youtube(song_name):
